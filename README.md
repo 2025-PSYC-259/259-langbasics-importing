@@ -3,6 +3,5 @@
 # 259-langbasics-importing
 Introduction to R language and data importing
 
-This project contains R code with an accompanying presentation. The presentation is contained in the "docs" folder. The remaining folders contain standalone code for students to use on their own.
+This project contains R code with an accompanying tutorial. 
 
-To view the presentation, visit: https://github.com/2025-PSYC-259/259-langbasics-importing/blob/a6c35512fd7a078920e4a01ce8f79e83500c7f1b/slides.pdf
